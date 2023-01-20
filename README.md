@@ -4,13 +4,13 @@
 
 Highly motivated and detail-oriented front-end developer with 2 years of experience in building responsive and user-friendly websites. Proficient in HTML, CSS, JavaScript, and frameworks such as React and Angular. Strong problem-solving skills and ability to work effectively in a team environment.
 
-Skills 👇 
+### - Skills
 
-- Main Stack: Angular | React | JavaScript | TypeScript | ES6 | CSS | SAAS |  HTML | Adobe Photoshop | Figma.
+Main Stack: Angular | React | JavaScript | TypeScript | ES6 | CSS | SAAS |  HTML | Adobe Photoshop | Figma.
 
-- Some Experience: Laravel | WordPress | REST API | Unit Test | Loadash | Bootstrap | Materialize CSS | Github.
+Some Experience: Laravel | WordPress | REST API | Unit Test | Loadash | Bootstrap | Materialize CSS | Github.
 
-- Basic Knowledge: Nodejs | Webpack |  SDLC |  Web Services |  SPA | ChartJS.
+Basic Knowledge: Nodejs | Webpack |  SDLC |  Web Services |  SPA | ChartJS.
 
 
 - 🔭 I’m currently working on Tinkers Technologies Ltd 
