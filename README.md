@@ -4,20 +4,20 @@
 
 Highly motivated and detail-oriented front-end developer with 2 years of experience in building responsive and user-friendly websites. Proficient in HTML, CSS, JavaScript, and frameworks such as React and Angular. Strong problem-solving skills and ability to work effectively in a team environment.
 
-### - Skills
+### Skills
 
-Main Stack: Angular | React | JavaScript | TypeScript | ES6 | CSS | SAAS |  HTML | Adobe Photoshop | Figma.
+- Main Stack: Angular | React | JavaScript | TypeScript | ES6 | CSS | SAAS |  HTML | Adobe Photoshop | Figma.
 
-Some Experience: Laravel | WordPress | REST API | Unit Test | Loadash | Bootstrap | Materialize CSS | Github.
+- Some Experience: Laravel | WordPress | REST API | Unit Test | Loadash | Bootstrap | Materialize CSS | Github.
 
-Basic Knowledge: Nodejs | Webpack |  SDLC |  Web Services |  SPA | ChartJS.
+- Basic Knowledge: Nodejs | Webpack |  SDLC |  Web Services |  SPA | ChartJS.
 
 
-- 🔭 I’m currently working on Tinkers Technologies Ltd 
-- 🌱 I’m currently learning JavaScript 
-- 🤔 I'm looking for people who can help me learn more about technology and working in a remote team environment. 
-- 📫 How to reach me: meetkakon@gmail.com 
-- ⚡ Fun fact: I co-founded the first one to one Bangla learning platform in my country called AmarVasha that helps hundreds of non-resident Bangladeshi children learn Bengali. 
+🔭 I’m currently working on Tinkers Technologies Ltd 
+🌱 I’m currently learning JavaScript 
+🤔 I'm looking for people who can help me learn more about technology and working in a remote team environment. 
+📫 How to reach me: meetkakon@gmail.com 
+⚡ Fun fact: I co-founded the first one to one Bangla learning platform in my country called AmarVasha that helps hundreds of non-resident Bangladeshi children learn Bengali. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kakon-mehedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kakon-mehedi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://kakonmehedi.com/)  
