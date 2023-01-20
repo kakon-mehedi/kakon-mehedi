@@ -1,6 +1,6 @@
 ![](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/313092729_148734341120410_6849137461568036577_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=XPh7eqZXrNwAX9oIp7U&_nc_ht=scontent.fdac140-1.fna&oh=00_AT-ovoyRISU4gvYLT4X_norBskFoP7qtx2Kj983LWUx7HQ&oe=635E4890)
 
-### Hi there 👋, This is Kakon Mehedi
+### Hi there 👋, This is Kakon Mehedi.
 
 Highly motivated and detail-oriented front-end developer with 2 years of experience in building responsive and user-friendly websites. Proficient in HTML, CSS, JavaScript, and frameworks such as React and Angular. Strong problem-solving skills and ability to work effectively in a team environment.
 
