@@ -2,14 +2,21 @@
 
 ### Hi there 👋, I am Kakon Mehedi
 
-I am  a Fron-end Web Application Developer 👨‍💻 Working remotely since 2020 🚀
+Highly motivated and detail-oriented front-end developer with 2 years of experience in building responsive and user-friendly websites. Proficient in HTML, CSS, JavaScript, and frameworks such as React and Angular. Strong problem-solving skills and ability to work effectively in a team environment.
 
-Skills: REACT / JS / HTML / CSS
+Skills: 
+
+Main Stack: Angular | React | JavaScript | TypeScript | ES6 | CSS | SAAS |  HTML | Adobe Photoshop | Figma.
+
+Some Experience: Laravel | WordPress | REST API | Unit Test | Loadash | Bootstrap | Materialize CSS | Github.
+
+Basic Knowledge: Nodejs | Webpack |  SDLC |  Web Services |  SPA | ChartJS.
+
 
 - 🔭 I’m currently working on Tinkers Technologies Ltd 
 - 🌱 I’m currently learning JavaScript 
 - 🤔 I'm looking for people who can help me learn more about technology and working in a remote team environment. 
-- 📫 How to reach me: kakon9000@gmail.com 
+- 📫 How to reach me: meetkakon@gmail.com 
 - ⚡ Fun fact: I co-founded the first one to one Bangla learning platform in my country called AmarVasha that helps hundreds of non-resident Bangladeshi children learn Bengali. 
 
 
