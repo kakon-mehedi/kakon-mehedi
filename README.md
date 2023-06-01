@@ -13,7 +13,7 @@ Highly motivated and detail-oriented front-end developer with 2 years of experie
 - Basic Knowledge: Nodejs | Webpack |  SDLC |  Web Services |  SPA | ChartJS.
 
 ### Activity
-- 🔭 I’m currently working on Tinkers Technologies Ltd 
+- 🔭 I’m currently working on SELISE Digital Platforms
 - 🌱 I’m currently learning JavaScript 
 - 🤔 I'm looking for people who can help me learn more about technology and working in a remote team environment. 
 - 📫 How to reach me: meetkakon@gmail.com 
