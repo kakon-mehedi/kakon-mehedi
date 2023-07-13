@@ -2,7 +2,7 @@
 
 ### Hi there 👋, This is Kakon Mehedi.
 
-Highly motivated and detail-oriented front-end developer with 2 years of experience in building responsive and user-friendly websites. Proficient in HTML, CSS, JavaScript, and frameworks such as React and Angular. Strong problem-solving skills and ability to work effectively in a team environment.
+As a software engineer, I have a passion for crafting clean, efficient, and scalable code. With a background in computer science, I am constantly driven by curiosity to explore and master emerging technologies.
 
 ### Skills
 
