@@ -25,5 +25,5 @@ I believe great software is built by great teams  and I love being part of that 
 
 - [LinkedIn](https://www.linkedin.com/in/kakon-mehedi)
     
-- ✉️ [meetkakon@gmail.com](mailto:meetkakon@gmail.com)
+- [meetkakon@gmail.com](mailto:meetkakon@gmail.com)
     
