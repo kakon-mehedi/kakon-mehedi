@@ -4,7 +4,7 @@ I'm a seasoned **Senior Software Engineer** and **Technical Lead** with a strong
 
 I specialize in **.NET**, **Angular**, and modern full-stack development — designing architectures that balance performance, security, and maintainability. I enjoy mentoring teams, improving engineering culture, and solving complex technical challenges with simple, practical solutions.
 
-### 🛠️ Core Skills
+### Core Skills
 
 - **Backend Development:** .NET, Node.js, NestJS, Express.js, REST & GraphQL API Design
     
@@ -21,7 +21,7 @@ I specialize in **.NET**, **Angular**, and modern full-stack development — des
 
 I believe great software is built by great teams  and I love being part of that journey.
 
-📫 **Connect with me**
+**Connect with me**
 
 - [LinkedIn](https://www.linkedin.com/in/kakon-mehedi)
     
